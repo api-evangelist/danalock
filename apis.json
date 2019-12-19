@@ -1,0 +1,50 @@
+{
+    "name": "DanaLock",
+    "description": "Welcome to the DanaLock Facebook.  Use your smartphone to lock and unlock your door!  DanaLock is the most beautiful and most inexpensive smart lock available today.  DanaLock is ready to ship, get yours now, please visit our homepage @ danalock.com.  ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18707-danalock.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "internet of things",
+        "locks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/danalock\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DanaLock",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18707-danalock.jpg",
+            "humanURL": "http:\/\/www.danalock.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/danalock-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/danalock"
+        },
+        {
+            "type": "Email",
+            "url": "info@danalock.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Danalockdk"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.danalock.com\/"
+        }
+    ]
+}
